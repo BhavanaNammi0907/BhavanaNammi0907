@@ -1,4 +1,7 @@
-## Hi there 👋
+<h3 align="center">Hello, I am Bhavana 👋 </h3>
+<p align="center"><b>A Software Engineer with 2.5 years of experience and a recent graduate with a Masters in Computer Science</b> </p>
+<p align="center">University of Florida'23 | Ex Software Engineer at Siemens India (2019-2021) </p>
+
 
 <!--
 **BhavanaNammi0907/BhavanaNammi0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
