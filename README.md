@@ -1,3 +1,6 @@
+<p align="center"><em>“The magic you are looking for is in the work you are avoiding.” - Dipen Parmar </em></p>
+<hr>
+
 <h3 align="center">Hello, I am Bhavana 👋 </h3>
 <p align="center"><b>A Software Engineer with 2.5 years of experience and a recent graduate with a Masters in Computer Science</b> </p>
 <p align="center">University of Florida'23 | Ex Software Engineer at Siemens India (2019-2021) </p>
