@@ -5,6 +5,8 @@
 <p align="center"><b>A Software Engineer with 2.5 years of experience and a recent graduate with a Masters in Computer Science</b> </p>
 <p align="center">University of Florida'23 | Ex Software Engineer at Siemens India (2019-2021) </p>
 
+If you're interested in collaborating or simply, want to drop in and say Hi, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/saibhavana-nammi/) 
+
 
 <!--
 **BhavanaNammi0907/BhavanaNammi0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
