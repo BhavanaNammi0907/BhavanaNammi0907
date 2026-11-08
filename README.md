@@ -1,24 +1,42 @@
-<p align="center"><em>“The magic you are looking for is in the work you are avoiding.” - Dipen Parmar </em></p>
-<hr>
+ <p align="center"><em>“The magic you are looking for is in the work you are avoiding.” — Dipen Parmar</em></p>
 
-<h3 align="center">Hello, I am Bhavana 👋 </h3>
-<p align="center"><b>A Software Engineer with 2.5 years of experience and a recent graduate with a Masters in Computer Science</b> </p>
-<p align="center">University of Florida'23 | Ex Software Engineer at Siemens India (2019-2021) </p>
+---
 
-If you're interested in collaborating or simply, want to drop in and say Hi, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/saibhavana-nammi/) 
+<h2 align="center">Hi, I'm Bhavana 👋</h2>
 
+<p align="center">
+  <b>Software Engineer | Full Stack & Backend Development</b>
+</p>
 
-<!--
-**BhavanaNammi0907/BhavanaNammi0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  MS in Computer Science @ University of Florida 🎓
+</p>
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer with **5+ years of experience** building full-stack applications, backend services, and REST APIs across enterprise and startup environments.
+
+My experience spans **C#/.NET, Python, Java, React, and SQL/NoSQL databases**, with a focus on developing reliable backend services and intuitive web applications.
+
+I enjoy solving engineering problems, learning new technologies, and building things that make a difference.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C#, Java, JavaScript, TypeScript, SQL
+- **Backend:** ASP.NET MVC, Flask, Spring Boot, Node.js, Express.js, REST APIs
+- **Frontend:** React, Angular, HTML, CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Cloud:** Docker, AWS, Git, GitHub Actions, Jenkins, GitLab CI/CD
+
+### 🌱 Currently Exploring
+
+- Strengthening my understanding of **Data Structures & Algorithms** and **System Design**
+- Revisiting **Java & Spring Boot** through hands-on development
+- Exploring **AI integration** in backend applications
+- Building personal projects and experimenting with new ideas
+
+### 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, exchange ideas, and collaborate on interesting projects.
+
+💼 [LinkedIn](https://www.linkedin.com/in/saibhavana-nammi/)
